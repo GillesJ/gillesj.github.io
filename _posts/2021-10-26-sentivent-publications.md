@@ -11,6 +11,11 @@ published: true
 
 I am happy to announce two new open access publications in the [SENTiVENT project](https://jacobsgill.es/sentivent-project) marking the end of my PhD and culminating in my dissertation.
 
+{% include image.html
+            img="/img/sentivent-event-sentiment-sample.jpg"
+            title="Example of event and sentiment extraction in the SENTiVENT project."
+            caption="Example of event and sentiment extraction in the SENTiVENT project." %}
+
 [SENTiVENT: enabling supervised information extraction of company-specific events in economic and financial news"](https://link.springer.com/article/10.1007/s10579-021-09562-4) has spent a long time in the oven at the Journal Language Resources and Evaluation.
 Here we describe the construction of fine-grained company-specific events in English economic news articles.
 The domain of event processing is highly productive and various general domain, fine-grained event extraction corpora are freely available but economically-focused resources are lacking. This work fills a large need for a manually annotated dataset for economic and financial text mining applications.
@@ -32,11 +37,6 @@ The gold coarse-grained experiments obtain decent performance (76% accuracy and 
 In the fine-grained experiments, we apply the grid tagging scheme unified model for <polar span, target span, polarity> triplet extraction, which obtains state-of-the-art performance on explicit sentiment in user reviews. We observe a drop in performance on our implicit sentiment corpus compared to the explicit benchmark (22% vs. 76% F1).
 We find that the current models for explicit sentiment are not directly portable to our implicit task: the larger lexical variety within implicit opinion expressions causes lexical data scarcity. We identify common errors and discuss several recommendations for implicit fine-grained sentiment analysis.
 Data and source code are available at https://osf.io/cbjta/. 
-
-{% include image.html
-            img="/img/sentivent-event-sentiment-sample.jpg"
-            title="Example of event and sentiment extraction in the SENTiVENT project."
-            caption="Example of event and sentiment extraction in the SENTiVENT project." %}
 
 
 On this blog you can find [other](https://jacobsgill.es/fnpfns-economic-events) [posts](https://jacobsgill.es/acl18-econlp-presentation) and [publications](https://jacobsgill.es/acl18-econlp-presentation) on my [PhD research](https://jacobsgill.es/clin31) in the [SENTiVENT project](https://jacobsgill.es/sentivent-project).
