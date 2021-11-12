@@ -805,3 +805,11 @@ ul.social-links {
   -webkit-columns: 2;
   -moz-columns: 2;
 }
+
+details > summary {
+  cursor: pointer;
+}
+
+details[open] > summary {
+  background-color: #ddd;
+}
