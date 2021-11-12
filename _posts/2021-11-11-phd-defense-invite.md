@@ -55,7 +55,7 @@ Room: 2.3 Rector August Vermeylen
 </details>
 
 <div class="googleform">
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdX0XG9X8dCmJGl1fQ6bjqYQYrNxDDIMGcV7hWoUgIWcPi4wQ/viewform?embedded=true" width="640" height="1180" frameborder="0" marginheight="0" marginwidth="0">Loading RSVP…
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdX0XG9X8dCmJGl1fQ6bjqYQYrNxDDIMGcV7hWoUgIWcPi4wQ/viewform?embedded=true" width="640" height="1100" frameborder="0" marginheight="0" marginwidth="0">Loading RSVP…
 </iframe>
 </div>
 
