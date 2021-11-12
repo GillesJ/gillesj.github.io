@@ -17,16 +17,16 @@ published: true
 - Room: 2.3 August Vermeylen
 
 <details>
-<summary markdown='span'>How to reach Het Pand\n</summary>
-\n\n**By train**\n
-- Testing\n
-**By car**\n
-- take 3x the stairs (up to the 1,5 floor)\n
-- enter by the brown door at your left (zaal rector vermeylen)\n
+<summary markdown='span'>⯈ How to reach Het Pand</summary>
+**By train**
+- Testing
+**By car**
+- take 3x the stairs (up to the 1,5 floor)
+- enter by the brown door at your left (zaal rector vermeylen)
 </details>
 
 <details>
-  <summary markdown='span'>Directions to the Room 2.3 August Vermeylen</summary>
+  <summary markdown='span'>⯈ Directions to Room 2.3 August Vermeylen</summary>
 
 **Reaching the stairs/elevator**:
 - enter by the main entrance
