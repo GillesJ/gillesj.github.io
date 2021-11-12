@@ -37,7 +37,7 @@ Room: 2.3 Rector August Vermeylen
   <summary markdown='span'>⯈ <ins>Finding Room 2.3 Rector August Vermeylen.</ins></summary>
 
 **Reaching the stairs/elevator**:
-- Enter by the main entrance.
+- Enter by the main entrance of Het Pand.
 - Go left.
 - Go till the end of the hallway.
 - Take the double glass door.
