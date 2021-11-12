@@ -8,10 +8,10 @@ image: /img/sentiventlogo.jpg
 tags: [PhD defense invitation, Het Pand, Gilles Jacobs doctoral dissertation]
 published: true
 ---
-Please fill in the RSVP form below and click `Submit` if you are able to attend.
+**Please fill in the RSVP form below and click `Submit` if you are able to attend.**
 
 Attendance requires a CovidSafe ticket.
-If a physical event is not longer possible, a video livestream will be provided.
+If a physical event is no longer possible, a video livestream will be provided.
 
 16:30 - 18:30: Public defense ceremony<br>
 18:30 - 20:00: Reception in Tearoom Alice across the street.
