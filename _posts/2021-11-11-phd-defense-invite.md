@@ -1,49 +1,50 @@
 ---
 layout: post
 title: Invitation for PhD Defense Gilles Jacobs
-subtitle: You are cordially invited the public defense on Thursday 09 December 2021, please fill in the RSVP form below!
+subtitle: You are cordially invited the public defense on Thursday 09 December 2021.
 description: My research has concluded and the jury will give pass their judgment.
 permalink: phdinvite
 image: /img/sentiventlogo.jpg
 tags: [PhD defense invitation, Het Pand, Gilles Jacobs doctoral dissertation]
 published: true
 ---
-16:30-18:30: Public defense ceremony<br>
-18:30-20:00: Reception in Tearoom Alice across the street.
+Please fill in the RSVP form below if you are able to attend.
+
+16:30 - 18:30: Public defense ceremony<br>
+18:30 - 20:00: Reception in Tearoom Alice across the street.
 
 Address: Het Pand, Onderbergen 1, 9000 Ghent<br>
-Room: 2.3 August Vermeylen
+Room: 2.3 Rector August Vermeylen
 </code>
 
 <details>
-<summary markdown='span'>⯈ <ins>How to reach Het Pand</ins></summary>
+<summary markdown='span'>⯈ <ins>How to reach Het Pand.</ins></summary>
 
 **By train**
-- Testing
+- Testing.
 **By car**
-- take 3x the stairs (up to the 1,5 floor)
-- enter by the brown door at your left (zaal rector vermeylen)
+- Testing.
 </details>
 
 <details>
-  <summary markdown='span'>⯈ <ins>Directions to Room 2.3 August Vermeylen</ins></summary>
+  <summary markdown='span'>⯈ <ins>Finding Room 2.3 Rector August Vermeylen.</ins></summary>
 
 **Reaching the stairs/elevator**:
-- enter by the main entrance
-- go left
-- go till the end of the hallway
-- take the double glass door
-  
+- Enter by the main entrance.
+- Go left.
+- Go till the end of the hallway.
+- Take the double glass door.
+
 **By stairs**:
-- take 3x the stairs (up to the 1,5 floor)
-- enter by the brown door at your left (zaal rector vermeylen)
+- Take 3x the stairs (up to the 1,5 floor).
+- Enter by the brown door at your left (zaal Rector August Vermeylen).
 
 **By elevator**:
-- take the white door immediately at your right
-- go to the 2nd floor
-- go right
-- take a few steps down
-- enter by the brown door (zaal August Vermeylen)
+- Take the white door immediately at your right.
+- Go to the 2nd floor.
+- Go right.
+- Take a few steps down.
+- Enter by the brown door (zaal Rector August Vermeylen).
 </details>
 
 
