@@ -39,6 +39,13 @@ blockquote {
 blockquote p:first-child {
   margin-top: 0;
 }
+details.summary {
+  cursor: pointer;
+}
+
+details[open] > summary {
+  background-color: #ddd;
+}
 hr.small {
   max-width: 100px;
   margin: 15px auto;
@@ -804,12 +811,4 @@ ul.social-links {
   columns: 2;
   -webkit-columns: 2;
   -moz-columns: 2;
-}
-
-details > summary {
-  cursor: pointer;
-}
-
-details[open] > summary {
-  background-color: #ddd;
 }
