@@ -15,7 +15,6 @@ Please fill in the RSVP form below if you are able to attend.
 
 Address: Het Pand, Onderbergen 1, 9000 Ghent<br>
 Room: 2.3 Rector August Vermeylen
-</code>
 
 <details>
 <summary markdown='span'>⯈ <ins>How to reach Het Pand.</ins></summary>
