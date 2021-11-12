@@ -16,18 +16,17 @@ published: true
 - Address: Het Pand, Onderbergen 1, 9000 Ghent
 - Room: 2.3 August Vermeylen
 
-<details markdown='span'>
-
-**By train**:
-* Testing
-
-**By car**:
-* take 3x the stairs (up to the 1,5 floor)
-* enter by the brown door at your left (zaal rector vermeylen)
+<details>
+<summary markdown='span'>How to reach Het Pand\n</summary>
+\n\n**By train**\n
+- Testing\n
+**By car**\n
+- take 3x the stairs (up to the 1,5 floor)\n
+- enter by the brown door at your left (zaal rector vermeylen)\n
 </details>
 
-<details markdown='span'>
-  <summary>Detailed directions to the Room 2.3 August Vermeylen!</summary>
+<details>
+  <summary markdown='span'>Directions to the Room 2.3 August Vermeylen</summary>
 
 **Reaching the stairs/elevator**:
 - enter by the main entrance
