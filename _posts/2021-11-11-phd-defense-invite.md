@@ -17,7 +17,8 @@ published: true
 - Room: 2.3 August Vermeylen
 
 <details>
-<summary markdown='span'>⯈ How to reach Het Pand</summary>
+<summary markdown='span'>⯈ <ins>How to reach Het Pand</ins></summary>
+
 **By train**
 - Testing
 **By car**
@@ -26,7 +27,7 @@ published: true
 </details>
 
 <details>
-  <summary markdown='span'>⯈ Directions to Room 2.3 August Vermeylen</summary>
+  <summary markdown='span'>⯈ <ins>Directions to Room 2.3 August Vermeylen</ins></summary>
 
 **Reaching the stairs/elevator**:
 - enter by the main entrance
