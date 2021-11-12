@@ -8,13 +8,12 @@ image: /img/sentiventlogo.jpg
 tags: [PhD defense invitation, Het Pand, Gilles Jacobs doctoral dissertation]
 published: true
 ---
+16:30-18:30: Public defense ceremony<br>
+18:30-20:00: Reception in Tearoom Alice across the street.
 
-
-- 16:30-18:30: Public defense ceremony
-- 18:30-20:00: Reception in Tearoom Alice across the street.
-
-- Address: Het Pand, Onderbergen 1, 9000 Ghent
-- Room: 2.3 August Vermeylen
+Address: Het Pand, Onderbergen 1, 9000 Ghent<br>
+Room: 2.3 August Vermeylen
+</code>
 
 <details>
 <summary markdown='span'>⯈ <ins>How to reach Het Pand</ins></summary>
