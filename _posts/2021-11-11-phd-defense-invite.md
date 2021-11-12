@@ -19,11 +19,11 @@ published: true
 <details markdown='span'>
 
 **By train**:
-- Testing
+* Testing
 
 **By car**:
-- take 3x the stairs (up to the 1,5 floor)
-- enter by the brown door at your left (zaal rector vermeylen)
+* take 3x the stairs (up to the 1,5 floor)
+* enter by the brown door at your left (zaal rector vermeylen)
 </details>
 
 <details markdown='span'>
