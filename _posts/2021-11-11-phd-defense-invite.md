@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Invitation for PhD Defense Gilles Jacobs
+title: Invitation for PhD Defense
 subtitle: You are cordially invited the Gilles Jacobs' public defense on Thursday 09 December 2021 of the doctoral thesis "Fine-Grained Extraction of Events and Eentiment in Economic News".
-description: My research has concluded and the jury will give pass their judgment.
+description: My research has concluded and the jury will give pass their judgment in a public defense ceremony of the doctoral thesis "Fine-Grained Extraction of Events and Eentiment in Economic News".
 permalink: phdinvite
 image: /img/sentiventlogo.jpg
 tags: [RSVP, PhD defense invitation, Het Pand, Gilles Jacobs doctoral dissertation]
