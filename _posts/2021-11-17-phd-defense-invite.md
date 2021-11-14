@@ -23,6 +23,11 @@ Room: 2.3 Rector August Vermeylen
 <summary markdown='span'>⯈ <ins>How to reach Het Pand.</ins></summary>
 
 **By public transport**
+<ul>
+ <li>Coffee</li>
+ <li>Tea</li>
+ <li>Milk</li>
+</ul> 
 - Take train to Gent-Sint-Pieter main station.
 - Take `Tram 1 Gent Flanders Expo - Wondelgem Industrieweg` -> Stop Gent Korenmarkt (11min) -> Walk to Het Pand (450m)
 - Or take `Tram 2 towards Zwijnaarde - Melle Leeuw` -> Stop Gent Oude Houtlei (11min) -> Walk to Het Pand (400m)
