@@ -61,7 +61,7 @@ Room: 2.3 Rector August Vermeylen
 </details>
 
 <div class="googleform">
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfSEofEhkSCkx1ZtGk4L7UOBzPgfPl5JMeJXLCSfm44M_8LLQ/viewform?embedded=true" width="640" height="966" frameborder="0" marginheight="0" marginwidth="0">Laden…</iframe></iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfSEofEhkSCkx1ZtGk4L7UOBzPgfPl5JMeJXLCSfm44M_8LLQ/viewform?embedded=true" width="640" height="1024" frameborder="0" marginheight="0" marginwidth="0">Laden…</iframe></iframe>
 </div>
 
 Contact:  (0032) 472 62 72 04 or gilles.jacobs@ugent.be.
