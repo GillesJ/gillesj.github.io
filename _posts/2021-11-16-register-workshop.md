@@ -3,7 +3,7 @@ layout: post
 title: Register for Workshop on NLP for Economics
 subtitle: You are cordially invited the Workshop on NLP for Economics.
 description: You are cordially invited the Workshop on NLP for Economics.
-permalink: phdinvite
+permalink: workshopregister
 image: /img/sentiventlogo.jpg
 tags: [Registration, Economics for NLP, PhD defense workshop, Het Pand, Gilles Jacobs doctoral dissertation]
 published: true
