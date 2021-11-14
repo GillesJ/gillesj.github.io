@@ -46,6 +46,10 @@ details.summary {
 details[open] > summary {
   background-color: #ddd;
 }
+details > p {
+  background-color: #ddd;
+}
+
 hr.small {
   max-width: 100px;
   margin: 15px auto;
