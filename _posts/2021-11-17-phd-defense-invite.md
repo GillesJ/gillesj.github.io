@@ -25,8 +25,8 @@ Room: 2.3 Rector August Vermeylen
 <b>By public transport</b>
 <ul>
  <li>Take train to Gent-Sint-Pieter main station.</li>
- <li>Take `Tram 1 Gent Flanders Expo - Wondelgem Industrieweg` -> Stop Gent Korenmarkt (11min) -> Walk to Het Pand (450m).</li>
- <li>Or take `Tram 2 towards Zwijnaarde - Melle Leeuw` -> Stop Gent Oude Houtlei (11min) -> Walk to Het Pand (400m).</li>
+ <li>Take `Tram 1 Gent Flanders Expo - Wondelgem Industrieweg` → Stop Gent Korenmarkt (11min) → Walk to Het Pand (450m).</li>
+ <li>Or take `Tram 2 towards Zwijnaarde - Melle Leeuw` → Stop Gent Oude Houtlei (11min) → Walk to Het Pand (400m).</li>
 </ul> 
 
 <b>By car</b>: Het Pand is located centrally in Ghent's Low Emission Zone (LEZ). See <a href="https://stad.gent/nl/mobiliteit-openbare-werken/parkeren/parkings-gent">here for more info on parking</a>.
