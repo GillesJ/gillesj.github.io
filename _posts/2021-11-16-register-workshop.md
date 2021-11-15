@@ -23,11 +23,14 @@ This event is aimed at
 
 ## Speakers
 <img src="img/udo-hahn-opt.jpg" align="left" width="124px" margin-right="7px"/>
-Prof. Dr. Udo Hahn<br>
+**Prof. Dr. Udo Hahn**<br>
 Full Professor of Computational Linguistics - Head of the Jena University Language & Information Engineering (JULIE) Lab.
-
+<br>
 <br clear="left"/>
-Description of expertise in field.
+<img src="img/kris-boudt-opt.jpg" align="left" width="124px" margin-right="7px"/>
+**Dr. Kris Boudt**<br>
+Kris Boudt is professor of finance and econometrics at Ghent University, Vrije Universiteit Brussel and Vrije Universiteit Amsterdam. He is an instructor at DataCamp and cofounder of Sentometrics. 
+<br clear="left"/>
 
 ## Practical information
 Address: Het Pand, Onderbergen 1, 9000 Ghent<br>
