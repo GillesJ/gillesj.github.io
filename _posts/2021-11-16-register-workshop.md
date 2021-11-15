@@ -4,7 +4,7 @@ title: Register for Workshop on NLP for Economics
 subtitle: You are cordially invited the Workshop on NLP for Economics.
 description: You are cordially invited the Workshop on NLP for Economics.
 permalink: workshopregister
-image: /img/sentiventlogo.jpg
+image: /img/workshop.jpg
 tags: [Registration, Economics for NLP, PhD defense workshop, Het Pand, Gilles Jacobs doctoral dissertation]
 published: true
 ---
@@ -22,9 +22,16 @@ This event is aimed at
 - 15:45 - 16:15: Coffee break
 
 ## Speakers
-![image](img/udo-hahn-opt.jpg){: style="float: left"}
-Prof. Dr. Udo Hahn<br>
-Full Professor of Computational Linguistics - Head of the Jena University Language & Information Engineering (JULIE) Lab
+<div style="clear: both;">
+  <div style="float: left; margin-right 1em;">
+    <img src="img/udo-hahn-opt.jpg" alt="">
+  </div>
+  <div>
+    <p>Prof. Dr. Udo Hahn<br>
+    Full Professor of Computational Linguistics - Head of the Jena University Language & Information Engineering (JULIE) Lab
+</p>
+  </div>
+</div>
 
 
 ## Practical information
