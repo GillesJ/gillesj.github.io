@@ -3,7 +3,7 @@ layout: post
 title: Register for Workshop on NLP for Economics
 subtitle: You are cordially invited the Workshop on NLP for Economics.
 description: You are cordially invited the Workshop on NLP for Economics.
-permalink: workshopregister
+permalink: workshop
 image: /img/workshop.jpg
 tags: [Registration, Economics for NLP, PhD defense workshop, Het Pand, Gilles Jacobs doctoral dissertation]
 published: true
@@ -14,7 +14,7 @@ Attendance requires a CovidSafe ticket.
 If a physical event is no longer possible, a video livestream will be provided.
 
 ## Workshop description
-This event is aimed at 
+This event is aimed at placeholder text.
 
 ## Schedule
 - 14:00 - 15:00: Talk 1

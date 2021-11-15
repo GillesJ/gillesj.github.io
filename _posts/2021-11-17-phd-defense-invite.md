@@ -16,6 +16,9 @@ If a physical event is no longer possible, a video livestream will be provided.
 16:30 - 18:30: Public defense ceremony<br>
 18:30 - 20:00: Reception in Tearoom Alice across the street.
 
+An optional workshop on NLP for Economics will take place beforehand (14:00 - 16:00).
+Those interested can find [more information and register here](https://jacobsgill.es/workshop).
+
 Address: Het Pand, Onderbergen 1, 9000 Ghent<br>
 Room: 2.3 Rector August Vermeylen
 
