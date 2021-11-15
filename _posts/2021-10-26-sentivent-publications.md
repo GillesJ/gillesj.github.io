@@ -4,7 +4,7 @@ title: "New publications on extracting events and sentiment for financial news"
 subtitle: "Two recent publications on fine-grained information extraction in company-specific news using deep learning."
 description: "Two recent publications on fine-grained information extraction in company-specific news using deep learning for financial applications."
 permalink: sentivent-publications-oct21
-image: img/sentiventlogo.jpg
+image: img/sentiventpub.jpg
 tags: [economic events, fine-grained sentiment analysis, deep learning, financial nlp, sentivent, open access journal publications, research, machine learning]
 published: true
 ---
