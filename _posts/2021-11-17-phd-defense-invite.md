@@ -3,7 +3,7 @@ layout: post
 title: Invitation for PhD Defense
 subtitle: You are cordially invited the Gilles Jacobs' public defense on Thursday 09 December 2021 of the doctoral thesis "Fine-Grained Extraction of Events and Sentiment in Economic News".
 description: My research has concluded and the jury will give pass their judgment in a public defense ceremony of the doctoral thesis "Fine-Grained Extraction of Events and Sentiment in Economic News".
-permalink: phdinvite
+permalink: phddefense
 image: /img/phddefense.jpg
 tags: [RSVP, PhD defense invitation, Het Pand, Gilles Jacobs doctoral dissertation]
 published: true
@@ -61,7 +61,7 @@ Room: 2.3 Rector August Vermeylen
 </details>
 
 <div class="googleform">
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdX0XG9X8dCmJGl1fQ6bjqYQYrNxDDIMGcV7hWoUgIWcPi4wQ/viewform?embedded=true" width="640" height="1100" frameborder="0" marginheight="0" marginwidth="0">Loading RSVP…
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdX0XG9X8dCmJGl1fQ6bjqYQYrNxDDIMGcV7hWoUgIWcPi4wQ/viewform?embedded=true" width="640" height="960" frameborder="0" marginheight="0" marginwidth="0">Loading RSVP…
 </iframe>
 </div>
 
