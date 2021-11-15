@@ -22,7 +22,7 @@ This event is aimed at
 - 15:45 - 16:15: Coffee break
 
 ## Speakers
-<img src="udo-hahn-opt.jph" align="left" width="200px"/>
+<img src="img/udo-hahn-opt.jph" align="left" width="200px"/>
 Prof. Dr. Udo Hahn<br>
 Full Professor of Computational Linguistics - Head of the Jena University Language & Information Engineering (JULIE) Lab.
 
