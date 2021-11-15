@@ -22,17 +22,12 @@ This event is aimed at
 - 15:45 - 16:15: Coffee break
 
 ## Speakers
-<div style="clear: both;">
-  <div style="float: left; margin-right 1em;">
-    <img src="img/udo-hahn-opt.jpg" alt="">
-  </div>
-  <div>
-    <p>Prof. Dr. Udo Hahn<br>
-    Full Professor of Computational Linguistics - Head of the Jena University Language & Information Engineering (JULIE) Lab
-</p>
-  </div>
-</div>
+<img src="udo-hahn-opt.jph" align="left" width="200px"/>
+Prof. Dr. Udo Hahn<br>
+Full Professor of Computational Linguistics - Head of the Jena University Language & Information Engineering (JULIE) Lab.
 
+<br clear="left"/>
+Description of expertise in field.
 
 ## Practical information
 Address: Het Pand, Onderbergen 1, 9000 Ghent<br>
