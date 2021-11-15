@@ -20,12 +20,12 @@ This workshop is placeholder description text.
 ## Speakers
 <img src="img/udo-hahn-opt.jpg" align="left" width="124px" margin-right="7px"/>
 **Prof. Dr. Udo Hahn**<br>
-Full Professor of Computational Linguistics - Head of the Jena University Language & Information Engineering (JULIE) Lab.
+Full Professor of Computational Linguistics - Head of the Jena University Language & Information Engineering (JULIE) Lab. Prof Hahn has published extensively on sentiment analysis and corpus construction for corporate and financial reporting.
 <br>
 <br>
 <br clear="left"/>
 <img src="img/kris_boudt-opt.jpg" align="left" width="124px" margin-right="7px"/>
-**Dr. Kris Boudt**<br>
+**Prof. Dr. Kris Boudt**<br>
 Kris Boudt is professor of finance and econometrics at Ghent University, Vrije Universiteit Brussel and Vrije Universiteit Amsterdam. He is an instructor at DataCamp and cofounder of Sentometrics. 
 <br clear="left"/>
 
