@@ -13,8 +13,7 @@ published: true
 Attendance requires a CovidSafe ticket.
 If a physical event is no longer possible, a video livestream will be provided.
 
-## Workshop description
-This event is aimed at placeholder text.
+This workshop is placeholder description text.
 
 ## Schedule
 - 14:00 - 15:00: Talk 1
