@@ -10,9 +10,6 @@ published: true
 ---
 **Please fill in the Registration form below and click `Submit`.**
 
-Attendance requires a CovidSafe ticket.
-If a physical event is no longer possible, a video livestream will be provided.
-
 This workshop is placeholder description text.
 
 ## Schedule
@@ -33,6 +30,12 @@ Kris Boudt is professor of finance and econometrics at Ghent University, Vrije U
 <br clear="left"/>
 
 ## Practical information
+
+### CovidSafe
+Attendance requires a CovidSafe ticket.
+If a physical event is no longer possible, a video livestream will be provided.
+
+### Location
 Address: Het Pand, Onderbergen 1, 9000 Ghent<br>
 Room: 2.3 Rector August Vermeylen
 
