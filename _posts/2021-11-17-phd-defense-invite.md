@@ -10,6 +10,8 @@ published: true
 ---
 **Please fill in the RSVP form below and click `Submit` if you are able to attend.**
 
+In economic news, journalists and analysts give objective information on recent events while also giving implicitly subjective opinions. I will present my work on machine learning-based approaches for obtaining structured factual data alongside subjective information from business news reporting for use in financial applications.
+
 Attendance requires a CovidSafe ticket.
 If a physical event is no longer possible, a video livestream will be provided.
 
@@ -19,7 +21,7 @@ If a physical event is no longer possible, a video livestream will be provided.
 An optional workshop on NLP for Economics will take place beforehand (14:00 - 16:00).
 Those interested can find [more information on the workshop here](https://jacobsgill.es/workshop).
 
-Address: Het Pand, Onderbergen 1, 9000 Ghent<br>
+Address: [Het Pand, Onderbergen 1, 9000 Ghent](https://g.page/het-pand)<br>
 Room: 2.3 Rector August Vermeylen
 
 <details>

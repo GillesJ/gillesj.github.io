@@ -10,15 +10,17 @@ published: true
 ---
 **Please fill in the Registration form below and click `Submit`.**
 
-This workshop is placeholder description text.
+This workshop increasing relevance of NLP for economic applications, both in terms of already operational language technology products and systems, and newly emerging methodologies and techniques reflecting the requirements at the intersection of economics, finance, econometrics and NLP.
+
+The workshop is followed by [the public PhD defense of Gilles Jacobs](https://jacobsgill.es/phddefense)'s dissertation. Attendance for the defense is optional. If you decide to attend the defense, please fill in the RSVP form on the webpage.
 
 ## Schedule
-- 14:00 - 15:00: Talk 1
-- 15:00 - 15:45: Talk 2
+- 14:00 - 15:00: Talk by Kris Boudt on thematic indices and textual sentiment aggregation.
+- 15:00 - 15:45: Talk/tutorial by Udo Hahn.
 - 15:45 - 16:15: Coffee break
 
 ## Speakers
-<img src="img/udo-hahn-opt.jpg" align="left" width="124px" margin-right="7px"/>
+<img src="img/udo-hahn-opt.jpg" align="left" width="124px" margin-right="15px"/>
 **Prof. Dr. Udo Hahn**<br>
 Full Professor of Computational Linguistics - Head of the Jena University Language & Information Engineering (JULIE) Lab. Prof Hahn has published extensively on sentiment analysis and corpus construction for corporate and financial reporting.
 <br>
@@ -36,7 +38,7 @@ Attendance requires a CovidSafe ticket.
 If a physical event is no longer possible, a video livestream will be provided.
 
 ### Location
-Address: Het Pand, Onderbergen 1, 9000 Ghent<br>
+Address: [Het Pand, Onderbergen 1, 9000 Ghent](https://g.page/het-pand)<br>
 Room: 2.3 Rector August Vermeylen
 
 <details>
