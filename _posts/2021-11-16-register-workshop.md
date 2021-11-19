@@ -15,7 +15,10 @@ This workshop increasing relevance of NLP for economic applications, both in ter
 The workshop is followed by [the public PhD defense of Gilles Jacobs](https://jacobsgill.es/phddefense)'s dissertation. Attendance for the defense is optional. If you decide to attend the defense, please fill in the RSVP form on the webpage.
 
 ## Schedule
-- 14:00 - 15:00: Talk by Kris Boudt on thematic indices and textual sentiment aggregation.
+- 14:00 - 15:00: <details>
+<summary markdown='span'>⯈ <ins>Kris Boudt - From media news articles to thematic index solutions for monitoring the economy.</ins></summary>
+Sentometrics research is about using econometrics for analysing the sentiment extracted from qualitative data. I will provide an introduction to this research field as well as present case studies of operationalizing the research findings for applications in monitoring the state of the economy and credit risk using Belgian news articles.
+</details>
 - 15:00 - 15:45: Talk/tutorial by Udo Hahn.
 - 15:45 - 16:15: Coffee break
 
