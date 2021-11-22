@@ -13,7 +13,7 @@ published: true
 
 This workshop is aimed at the increasing relevance of NLP for economic applications, both in terms of already operational language technology products and systems, and newly emerging methodologies and techniques reflecting the requirements at the intersection of economics, finance, econometrics and NLP.
 
-The workshop is followed by [the public PhD defense of Gilles Jacobs](https://jacobsgill.es/phddefense)'s dissertation. Attendance for the defense is optional. If you decide to attend the defense, please fill in the RSVP form on the webpage.
+The workshop is followed by [the public PhD defense of Gilles Jacobs](https://jacobsgill.es/phddefense)' dissertation. Attendance for the defense is optional. If you decide to attend the defense, please fill in the RSVP form on the webpage.
 
 ## Schedule
 <p>
