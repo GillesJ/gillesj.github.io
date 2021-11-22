@@ -36,19 +36,15 @@ Sentometrics research is about using econometrics for analysing the sentiment ex
 
 ## Speakers
 <img src="img/udo-hahn-opt.jpg" align="left" width="124px" margin-right="auto"/>
-<p>
 **Prof. Dr. Udo Hahn**<br>
 Full Professor of Computational Linguistics - Head of the Jena University Language & Information Engineering (JULIE) Lab. Prof Hahn has published extensively on sentiment analysis and corpus construction for corporate and financial reporting.
-</p>
+<br>
 <br>
 <br clear="left"/>
-<p>
-
 <img src="img/kris_boudt-opt.jpg" align="left" width="124px" margin-right="auto"/>
 **Prof. Dr. Kris Boudt**<br>
 Kris Boudt is professor of finance and econometrics at Ghent University, Vrije Universiteit Brussel and Vrije Universiteit Amsterdam. He is an instructor at DataCamp and cofounder of Sentometrics. 
 <br clear="left"/>
-<p>
 
 ## Practical information
 
