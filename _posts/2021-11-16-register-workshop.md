@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: minimal
 title: Workshop on NLP for Economics
 subtitle: You are cordially invited the Workshop on NLP for Economics.
 description: Information and registration for the workshop on NLP for Economics.
@@ -9,13 +9,6 @@ header-img: /img/workshop.jpg
 tags: [Registration, Economics for NLP, PhD defense workshop, Het Pand, Gilles Jacobs doctoral dissertation]
 published: true
 ---
-
-<style type="text/css">
-  navbar {
-    display: none;
-  }
-</style>
-
 **Please fill in the Registration form below and click `Submit`.**
 
 This workshop is aimed at the increasing relevance of NLP for economic applications, both in terms of already operational language technology products and systems, and newly emerging methodologies and techniques reflecting the requirements at the intersection of economics, finance, econometrics and NLP.
