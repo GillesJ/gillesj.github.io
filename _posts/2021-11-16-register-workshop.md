@@ -1,5 +1,5 @@
 ---
-layout: minimalbase
+layout: post
 title: Workshop on NLP for Economics
 subtitle: You are cordially invited the Workshop on NLP for Economics.
 description: Information and registration for the workshop on NLP for Economics.
