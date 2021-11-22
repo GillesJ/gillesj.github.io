@@ -10,7 +10,7 @@ published: true
 ---
 **Please fill in the Registration form below and click `Submit`.**
 
-This workshop increasing relevance of NLP for economic applications, both in terms of already operational language technology products and systems, and newly emerging methodologies and techniques reflecting the requirements at the intersection of economics, finance, econometrics and NLP.
+This workshop is aimed at the increasing relevance of NLP for economic applications, both in terms of already operational language technology products and systems, and newly emerging methodologies and techniques reflecting the requirements at the intersection of economics, finance, econometrics and NLP.
 
 The workshop is followed by [the public PhD defense of Gilles Jacobs](https://jacobsgill.es/phddefense)'s dissertation. Attendance for the defense is optional. If you decide to attend the defense, please fill in the RSVP form on the webpage.
 
@@ -20,18 +20,20 @@ The workshop is followed by [the public PhD defense of Gilles Jacobs](https://ja
 Shamelessly borrowing parts of the title of my presentation from John L. Austin’s seminal work “How to Do Things with Words” (1955), the impetus of pragmatics and the behavioral implications of natural language for economics sets the right tone of my talk. It is basically about the importance and (un)conscious effects of linguistic signals exchanged among economic stakeholders (companies, customers, the banking system, public administration and political institutions). A bird’s eye view is provided of fundamental methods used to uncover explicit and implicit messages and some prominent applications (e.g., NLP-based financial performance prediction for companies, product reviewing and framing via social media, forecasting of future (trans)national macroeconomic development, etc.).
 I will review earlier and current work going on at the intersection of economics and natural language processing, feature current multi-disciplinary activities in this domain from various perspectives, and close with up-coming challenges (mostly from an NLP perspective).
 </details>
-
+<br>
 <details>
 <summary markdown='span'> ⯈ 15:00 - 15:45: <ins>Kris Boudt - From Media News Articles to Thematic Index Solutions for Monitoring the Economy.</ins></summary>
 Sentometrics research is about using econometrics for analysing the sentiment extracted from qualitative data. I will provide an introduction to this research field as well as present case studies of operationalizing the research findings for applications in monitoring the state of the economy and credit risk using Belgian news articles.
 </details>
-
-- 15:45 - 16:15: Coffee break
+<br>
+■ 15:45 - 16:15: Coffee break
 
 ## Speakers
 <img src="img/udo-hahn-opt.jpg" align="left" width="124px" margin-right="15px"/>
+<div margin-left="10px">
 **Prof. Dr. Udo Hahn**<br>
 Full Professor of Computational Linguistics - Head of the Jena University Language & Information Engineering (JULIE) Lab. Prof Hahn has published extensively on sentiment analysis and corpus construction for corporate and financial reporting.
+</div>
 <br>
 <br>
 <br clear="left"/>
@@ -43,8 +45,11 @@ Kris Boudt is professor of finance and econometrics at Ghent University, Vrije U
 ## Practical information
 
 ### CovidSafe
-Attendance requires a CovidSafe ticket.
+Physical attendance requires a CovidSafe ticket and masks should be worn indoors.
 If a physical event is no longer possible, a video livestream will be provided.
+
+### Livestream
+A livestream link will be provided here.
 
 ### Location
 Address: [Het Pand, Onderbergen 1, 9000 Ghent](https://g.page/het-pand)<br>
