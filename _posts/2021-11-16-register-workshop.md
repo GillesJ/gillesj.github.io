@@ -16,11 +16,16 @@ The workshop is followed by [the public PhD defense of Gilles Jacobs](https://ja
 
 ## Schedule
 <details>
-<summary markdown='span'> ⯈ 14:00 - 15:00: <ins>Kris Boudt - From media news articles to thematic index solutions for monitoring the economy.</ins></summary>
+<summary markdown='span'> ⯈ 14:00 - 15:00: <ins>Udo Hahn - How to Do Economics with Words: The Role of Natural Language (Processing) for Economic Stakeholders </ins></summary>
+Shamelessly borrowing parts of the title of my presentation from John L. Austin’s seminal work “How to Do Things with Words” (1955), the impetus of pragmatics and the behavioral implications of natural language for economics sets the right tone of my talk. It is basically about the importance and (un)conscious effects of linguistic signals exchanged among economic stakeholders (companies, customers, the banking system, public administration and political institutions). A bird’s eye view is provided of fundamental methods used to uncover explicit and implicit messages and some prominent applications (e.g., NLP-based financial performance prediction for companies, product reviewing and framing via social media, forecasting of future (trans)national macroeconomic development, etc.).
+I will review earlier and current work going on at the intersection of economics and natural language processing, feature current multi-disciplinary activities in this domain from various perspectives, and close with up-coming challenges (mostly from an NLP perspective).
+</details>
+
+<details>
+<summary markdown='span'> ⯈ 15:00 - 15:45: <ins>Kris Boudt - From Media News Articles to Thematic Index Solutions for Monitoring the Economy.</ins></summary>
 Sentometrics research is about using econometrics for analysing the sentiment extracted from qualitative data. I will provide an introduction to this research field as well as present case studies of operationalizing the research findings for applications in monitoring the state of the economy and credit risk using Belgian news articles.
 </details>
 
-- 15:00 - 15:45: Talk/tutorial by Udo Hahn.
 - 15:45 - 16:15: Coffee break
 
 ## Speakers
