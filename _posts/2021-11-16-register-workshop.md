@@ -5,7 +5,7 @@ subtitle: You are cordially invited the Workshop on NLP for Economics.
 description: Information and registration for the workshop on NLP for Economics.
 permalink: workshop
 image: /img/workshop.jpg
-header-img: /img/workshop.jpg
+share-img: /img/workshop.jpg
 tags: [Registration, Economics for NLP, PhD defense workshop, Het Pand, Gilles Jacobs doctoral dissertation]
 published: true
 ---
