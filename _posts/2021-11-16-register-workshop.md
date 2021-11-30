@@ -51,7 +51,7 @@ Kris Boudt is professor of finance and econometrics at Ghent University, Vrije U
 
 ### CovidSafe
 Physical attendance requires a CovidSafe ticket and masks should be worn indoors.
-If a physical event is no longer possible, a video livestream will be provided.
+If a physical event is no longer possible, the workshop will be fully virtual and a video livestream will be provided below.
 
 ### Livestream
 A livestream link will be provided here.

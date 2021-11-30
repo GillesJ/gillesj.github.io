@@ -12,11 +12,13 @@ published: true
 
 In economic news, journalists and analysts give objective information on recent events while also giving implicitly subjective opinions. I will present my work on machine learning-based approaches for obtaining structured factual data alongside subjective information from business news reporting for use in financial applications.
 
-Attendance requires a CovidSafe ticket.
-If a physical event is no longer possible, a video livestream will be provided.
+Attendance requires a CovidSafe ticket and will be masked.
+Room occupation is low for physical attendees and proper social distancing is implemented.
+A video livestream will be provided here for those that justifiably feel safer attending virtually.
+If a physical event is no longer possible, the whole event will be virtual via video livestream.
 
 16:30 - 18:30: Public defense ceremony<br>
-18:30 - 20:00: Reception in Tearoom Alice across the street.
+18:30 - 20:00: Outdoors reception in Tearoom Alice courtyard across the street (dress warm if you want to attend).
 
 An optional workshop on NLP for Economics will take place beforehand (14:00 - 16:00).
 Those interested can find [more information on the workshop here](https://jacobsgill.es/workshop).
