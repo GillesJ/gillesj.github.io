@@ -9,11 +9,11 @@ share-img: /img/workshop.jpg
 tags: [Registration, Economics for NLP, PhD defense workshop, Het Pand, Gilles Jacobs doctoral dissertation]
 published: true
 ---
-**Please fill in the Registration form below and click `Submit`.**
+[**Click here to attend virtually to the workshop livestream (start at 14:00 on Thursday 09 December).**](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmZlOGRlMGItNTY2MC00M2Q5LTljOTctMGRmMzNlZmYyOTFk%40thread.v2/0?context=%7b%22Tid%22%3a%22d7811cde-ecef-496c-8f91-a1786241b99c%22%2c%22Oid%22%3a%222e8f420f-f46e-44d2-8680-be63cf8f984f%22%7d)
 
 This workshop is aimed at the increasing relevance of NLP for economic applications, both in terms of already operational language technology products and systems, and newly emerging methodologies and techniques reflecting the requirements at the intersection of economics, finance, econometrics and NLP.
 
-The workshop is followed by [the public PhD defense of Gilles Jacobs](https://jacobsgill.es/phddefense)' dissertation. Attendance for the defense is optional. If you decide to attend the defense, please fill in the RSVP form on the webpage.
+The workshop is followed by [the public PhD defense of Gilles Jacobs](https://jacobsgill.es/phddefense)' dissertation. Attendance for the defense is optional. If you decide to attend the defense, please go to the different livestream on that page.
 
 ## Schedule
 <p>
@@ -49,14 +49,12 @@ Kris Boudt is professor of finance and econometrics at Ghent University, Vrije U
 
 ## Practical information
 
-### CovidSafe
-Physical attendance requires a CovidSafe ticket and masks should be worn indoors.
-If a physical event is no longer possible, the workshop will be fully virtual and a video livestream will be provided below.
-
 ### Livestream
-A livestream link will be provided here.
+A livestream link will be provided at https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmZlOGRlMGItNTY2MC00M2Q5LTljOTctMGRmMzNlZmYyOTFk%40thread.v2/0?context=%7b%22Tid%22%3a%22d7811cde-ecef-496c-8f91-a1786241b99c%22%2c%22Oid%22%3a%222e8f420f-f46e-44d2-8680-be63cf8f984f%22%7d
 
-### Location
+### Physical Location
+Physical attendance requires a CovidSafe ticket and masks should be worn indoors.
+
 Address: [Het Pand, Onderbergen 1, 9000 Ghent](https://g.page/het-pand)<br>
 Room: 2.3 Rector August Vermeylen
 
