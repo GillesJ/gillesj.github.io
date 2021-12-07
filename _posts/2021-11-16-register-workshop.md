@@ -50,7 +50,7 @@ Kris Boudt is professor of finance and econometrics at Ghent University, Vrije U
 ## Practical information
 
 ### Livestream
-A livestream link will be provided at https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmZlOGRlMGItNTY2MC00M2Q5LTljOTctMGRmMzNlZmYyOTFk%40thread.v2/0?context=%7b%22Tid%22%3a%22d7811cde-ecef-496c-8f91-a1786241b99c%22%2c%22Oid%22%3a%222e8f420f-f46e-44d2-8680-be63cf8f984f%22%7d
+A livestream link will be provided at [https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmZlOGRlMGItNTY2MC00M2Q5LTljOTctMGRmMzNlZmYyOTFk%40thread.v2/0?context=%7b%22Tid%22%3a%22d7811cde-ecef-496c-8f91-a1786241b99c%22%2c%22Oid%22%3a%222e8f420f-f46e-44d2-8680-be63cf8f984f%22%7d](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmZlOGRlMGItNTY2MC00M2Q5LTljOTctMGRmMzNlZmYyOTFk%40thread.v2/0?context=%7b%22Tid%22%3a%22d7811cde-ecef-496c-8f91-a1786241b99c%22%2c%22Oid%22%3a%222e8f420f-f46e-44d2-8680-be63cf8f984f%22%7d)
 
 ### Physical Location
 Physical attendance requires a CovidSafe ticket and masks should be worn indoors.
