@@ -12,13 +12,9 @@ published: true
 
 **This a Teams meeting: You need to use Chrome or Edge browser or the Teams application (install it first).**
 
-[Leave a message in the guestbook afterwards!](https://padlet.com/orpheedeclercq/tkfnd6jbiwgai02w)
+[To leave a message in the guestbook afterwards, click here!](https://padlet.com/orpheedeclercq/tkfnd6jbiwgai02w)
 
 In economic news, journalists and analysts give objective information on recent events while also giving implicitly subjective opinions. I will present my work on machine learning-based approaches for obtaining structured factual data alongside subjective information from business news reporting for use in financial applications.
-
-Due to COVID, we reserve physical attendance for family, close friends, and the doctoral committee.
-Please, do not feel obliged to physically attend. Physical attendence still requires a CovidSafe Ticket and will be masked.
-Room occupation is low for physical attendees and proper social distancing is implemented.
 
 A video livestream will be provided here for those attending virtually at [https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDM3Mzg4N2QtODRiMS00OGZlLThkZWQtYTg5YmU1M2UyNTVm%40thread.v2/0?context=%7b%22Tid%22%3a%22d7811cde-ecef-496c-8f91-a1786241b99c%22%2c%22Oid%22%3a%222e8f420f-f46e-44d2-8680-be63cf8f984f%22%7d](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDM3Mzg4N2QtODRiMS00OGZlLThkZWQtYTg5YmU1M2UyNTVm%40thread.v2/0?context=%7b%22Tid%22%3a%22d7811cde-ecef-496c-8f91-a1786241b99c%22%2c%22Oid%22%3a%222e8f420f-f46e-44d2-8680-be63cf8f984f%22%7d)
 This a Teams meeting, which you can use in Chrome or Edge browser or the Teams application if you install it first.
@@ -31,6 +27,10 @@ Those interested can find [more information on the workshop here](https://jacobs
 
 Address: [Het Pand, Onderbergen 1, 9000 Ghent](https://g.page/het-pand)<br>
 Room: 2.3 Rector August Vermeylen
+
+Due to COVID, we reserve physical attendance for family, close friends, and the doctoral committee.
+Please, do not feel obliged to physically attend. Physical attendence still requires a CovidSafe Ticket and will be masked.
+Room occupation is low for physical attendees and proper social distancing is implemented.
 
 <details>
 <summary markdown='span'>⯈ <ins>How to reach Het Pand.</ins></summary>
@@ -73,9 +73,9 @@ Room: 2.3 Rector August Vermeylen
 </ul>
 </details>
 
-<div class="googleform">
+<!-- <div class="googleform">
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdX0XG9X8dCmJGl1fQ6bjqYQYrNxDDIMGcV7hWoUgIWcPi4wQ/viewform?embedded=true" width="640" height="960" frameborder="0" marginheight="0" marginwidth="0">Loading RSVP…
 </iframe>
-</div>
+</div> -->
 
 Contact:  (0032) 472 62 72 04 or gilles.jacobs@ugent.be.
