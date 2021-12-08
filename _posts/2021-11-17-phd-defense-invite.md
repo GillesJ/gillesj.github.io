@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Invitation for PhD Defense
+title: Public PhD Defense Gilles Jacobs
 subtitle: You are cordially invited the Gilles Jacobs' public defense on Thursday 09 December 2021 of the doctoral thesis "Fine-Grained Extraction of Events and Sentiment in Economic News".
 description: My research has concluded and the jury will give pass their judgment in a public defense ceremony of the doctoral thesis "Fine-Grained Extraction of Events and Sentiment in Economic News".
 permalink: phddefense
