@@ -8,7 +8,7 @@ image: /img/phddefense.jpg
 tags: [RSVP, PhD defense invitation, Het Pand, Gilles Jacobs doctoral dissertation]
 published: true
 ---
-[**Click here to attend virtually to the public defense livestream (start at 16:30 on Thursday 09 December).**](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDM3Mzg4N2QtODRiMS00OGZlLThkZWQtYTg5YmU1M2UyNTVm%40thread.v2/0?context=%7b%22Tid%22%3a%22d7811cde-ecef-496c-8f91-a1786241b99c%22%2c%22Oid%22%3a%222e8f420f-f46e-44d2-8680-be63cf8f984f%22%7d)
+[**!Click here to attend virtually to the public defense livestream (start at 16:30 on Thursday 09 December).**](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDM3Mzg4N2QtODRiMS00OGZlLThkZWQtYTg5YmU1M2UyNTVm%40thread.v2/0?context=%7b%22Tid%22%3a%22d7811cde-ecef-496c-8f91-a1786241b99c%22%2c%22Oid%22%3a%222e8f420f-f46e-44d2-8680-be63cf8f984f%22%7d)
 
 **This a Teams meeting: You need to use Chrome or Edge browser or the Teams application (install it first).**
 
