@@ -14,13 +14,13 @@ published: true
 
 [To leave a message in the guestbook afterwards, click here!](https://padlet.com/orpheedeclercq/tkfnd6jbiwgai02w)
 
+16:30 - 18:30: Public defense ceremony<br>
+18:30 - 20:00: Outdoors reception in Tearoom Alice courtyard across the street (dress warm if you want to attend).
+
 In economic news, journalists and analysts give objective information on recent events while also giving implicitly subjective opinions. I will present my work on machine learning-based approaches for obtaining structured factual data alongside subjective information from business news reporting for use in financial applications.
 
 A video livestream will be provided here for those attending virtually at [https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDM3Mzg4N2QtODRiMS00OGZlLThkZWQtYTg5YmU1M2UyNTVm%40thread.v2/0?context=%7b%22Tid%22%3a%22d7811cde-ecef-496c-8f91-a1786241b99c%22%2c%22Oid%22%3a%222e8f420f-f46e-44d2-8680-be63cf8f984f%22%7d](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDM3Mzg4N2QtODRiMS00OGZlLThkZWQtYTg5YmU1M2UyNTVm%40thread.v2/0?context=%7b%22Tid%22%3a%22d7811cde-ecef-496c-8f91-a1786241b99c%22%2c%22Oid%22%3a%222e8f420f-f46e-44d2-8680-be63cf8f984f%22%7d)
 This a Teams meeting, which you can use in Chrome or Edge browser or the Teams application if you install it first.
-
-16:30 - 18:30: Public defense ceremony<br>
-18:30 - 20:00: Outdoors reception in Tearoom Alice courtyard across the street (dress warm if you want to attend).
 
 An optional workshop on NLP for Economics will take place beforehand (14:00 - 16:00).
 Those interested can find [more information on the workshop here](https://jacobsgill.es/workshop).
