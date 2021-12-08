@@ -14,8 +14,8 @@ published: true
 
 [To leave a message in the guestbook afterwards, click here!](https://padlet.com/orpheedeclercq/tkfnd6jbiwgai02w)
 
-**16:30 - 18:30: Public defense ceremony<br>
-18:30 - 20:00: Outdoors reception in Tearoom Alice courtyard across the street (dress warm if you want to attend).**
+**16:30 - 18:30: Public defense ceremony<br>**
+18:30 - 20:00: Outdoors reception in Tearoom Alice courtyard across the street (dress warm if you want to attend).
 
 In economic news, journalists and analysts give objective information on recent events while also giving implicitly subjective opinions. I will present my work on machine learning-based approaches for obtaining structured factual data alongside subjective information from business news reporting for use in financial applications.
 
