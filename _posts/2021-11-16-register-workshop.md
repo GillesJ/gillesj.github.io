@@ -11,7 +11,7 @@ published: true
 ---
 [**Click here to attend virtually to the workshop livestream (start at 14:00 on Thursday 09 December).**](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmZlOGRlMGItNTY2MC00M2Q5LTljOTctMGRmMzNlZmYyOTFk%40thread.v2/0?context=%7b%22Tid%22%3a%22d7811cde-ecef-496c-8f91-a1786241b99c%22%2c%22Oid%22%3a%222e8f420f-f46e-44d2-8680-be63cf8f984f%22%7d)
 
-This a Teams meeting, which you can use in Chrome or Edge browser or the Teams application if you install it first.
+**This a Teams meeting: You need to use Chrome or Edge browser or the Teams application (install it first).**
 
 This workshop is aimed at the increasing relevance of NLP for economic applications, both in terms of already operational language technology products and systems, and newly emerging methodologies and techniques reflecting the requirements at the intersection of economics, finance, econometrics and NLP.
 
