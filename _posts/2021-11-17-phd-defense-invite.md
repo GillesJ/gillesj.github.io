@@ -12,6 +12,8 @@ published: true
 
 **This a Teams meeting: You need to use Chrome or Edge browser or the Teams application (install it first).**
 
+[Leave a message in the guestbook afterwards!](https://padlet.com/orpheedeclercq/tkfnd6jbiwgai02w)
+
 In economic news, journalists and analysts give objective information on recent events while also giving implicitly subjective opinions. I will present my work on machine learning-based approaches for obtaining structured factual data alongside subjective information from business news reporting for use in financial applications.
 
 Due to COVID, we reserve physical attendance for family, close friends, and the doctoral committee.
