@@ -4,7 +4,7 @@ title: PhD obtained and dissertation published.
 subtitle: Gilles Jacobs has succesfully defended his doctoral dissertation.
 description: Gilles Jacobs has succesfully defended his doctoral dissertation on information extraction from economic news, get the thesis here and watch a video of the defense.
 permalink: phdobtained
-image: /img/phddefense.jpg
+image: /img/dissertation-icon.jpg
 tags: [PhD defense, Gilles Jacobs doctoral dissertation, SENTiVENT, Extracting Fine-Grained Events and Sentiment from Economic News]
 published: true
 ---
