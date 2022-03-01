@@ -25,6 +25,7 @@ description: "Gilles Jacobs' personal blog on machine learning, natural language
 navbar-links:
   About Me: "aboutme"
   Resources:
+    - Press Kit: "https://jacobsgill.es/press"
     - Curiculum Vitae: "https://linkedin.com/in/gilles-m-jacobs"
     - Publication list: "https://orcid.org/0000-0001-8846-3015"
 
