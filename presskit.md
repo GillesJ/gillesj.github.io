@@ -8,7 +8,7 @@ Met SENTiVENT creëerde taaltechnoloog Gilles Jacobs (UGent) een handige analyse
 
 Materiaal:
 - [pdf tekst persbericht SENTiVENT algemeen.]({{ site.url }}/download/Gilles Jacobs_Persbericht_algemeen.pdf)
-- [pdf tekst persbericht financiële pers.](({{ site.url }}/download/Gilles Jacobs_Persbericht_financieel.pdf))
+- [pdf tekst persbericht financiële pers.]({{ site.url }}/download/Gilles Jacobs_Persbericht_financieel.pdf)
 
 Beeld:
 
