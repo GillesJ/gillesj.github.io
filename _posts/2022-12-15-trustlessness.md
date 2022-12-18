@@ -32,11 +32,9 @@ In contrast, cryptocurrency relies on decentralized networks and consensus proto
 Overall, the fact that cryptocurrency does not rely on trust in the same way that traditional financial systems do is one of its key advantages, as it allows for greater security, transparency, and decentralization.
 
 # The cost of minimal trust
+> Why was the trustless person always late to meetings?
 
-````
-Why was the trustless person always late to meetings?
 > Because they had to verify the time on three different blockchains before they could leave their house!
-````
 
 In a financial system where trust is minimized, the onus is on users to verify the authenticity and security of the transactions and smart contracts that are recorded on the blockchain. This can be a significant burden for users who are not familiar with the technical details of blockchain and smart contracts, as they may need to invest time and resources to understand and verify the information that is being recorded on the blockchain.
 
