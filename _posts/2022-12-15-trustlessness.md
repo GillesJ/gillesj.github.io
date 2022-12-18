@@ -4,10 +4,12 @@ title: How I stopped worrying and learned to love Trustlessness
 subtitle: Trustlessness is a DeFi feature not a bug.
 description: In 2022 Decentralised Finance hyped credit protocols such as Maple.finance. They promised democratized undercollatoralized loans by bringing credit worthiness on-chain, then it all collapsed.
 permalink: trustlessness-in-defi-cryptocurrency
-image: /img/trustlessness.jpg
+image: /img/trustless-icon.jpg
 tags: [decentralized finance, DeFi, credit protocols, Maple.finance, Goldfinch, TrueFi, unsecured lending, cryptocurrency]
 published: true
 ---
+
+In 2022 Decentralised Finance hyped credit protocols such as Maple.finance. They promised democratized undercollatoralized loans by bringing credit worthiness on-chain, then it all collapsed.
 
 # Trustlessness is a DeFi feature not a bug
 
