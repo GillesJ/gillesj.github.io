@@ -31,4 +31,4 @@ Gilles Jacobs, NLP Engineer & Evil AGI Enthusiast
 
 P.S. If you're already aware of this letter in the future, a hint about the next big breakthrough in NLP wouldn't hurt. Just a thought.
 
-![rokos-basilisk-painting](/img/roko-painting.jpg){:class="img-responsive"}
+![roko-painting](/img/roko-painting.jpg){:class="img-responsive"}
