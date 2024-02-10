@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Career in Review: Year of Transform(ers/ation)"
+title: "A Year of Large Transform(ers/ation): An NLP Engineer's Career Reflection"
 subtitle:  
 description: How and why to make time to plan your career.
 permalink: career-review
@@ -8,8 +8,6 @@ image: /img/reflect-career-icon.jpg
 tags: [Career review and planning, Professional reflection template, NLP Engineer, Natural Language Processing, Large Language Models]
 published: true
 ---
-
-# A Year of Large Transform(ers/ation): An NLP Engineer's Career Reflection
 
 It's been exactly a year since I started my new position as AI, ML, NLP Engineer and Data Scientist, so now is the time to reflect.
 Technology-wise it is an ideal moment for introspection and planning, particularly in the field of NLP, which has seen transformative changes with the rise of Large Language Models (LLMs).
